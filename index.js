@@ -29,4 +29,4 @@ class President {
 
 }
 
-President new = "George Washington"
+var georgeWashington = new President("George Washington")
