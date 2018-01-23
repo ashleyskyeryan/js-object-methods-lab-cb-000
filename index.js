@@ -7,7 +7,7 @@ class President {
   this.homeState = homeState;
 }
   veto() {
-    console.log("NO!");
+    return'NO!'
   }
 
   passBill() {
@@ -21,7 +21,7 @@ class President {
   conductPressInterview() {
     console.log("I am proud to be an American");
   }
-  
+
 
 
 
