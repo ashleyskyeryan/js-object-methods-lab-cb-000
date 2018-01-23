@@ -15,9 +15,14 @@ class President {
   }
 
   doCharity() {
-    console.log("I like to help people.")
+    console.log("I like to help people.");
   }
 
+  conductPressInterview() {
+    console.log("I am proud to be an American");
+  }
   
-  
+
+
+
 }
