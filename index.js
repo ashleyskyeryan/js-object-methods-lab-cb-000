@@ -22,6 +22,10 @@ class President {
     return "I am proud to be an American"
   }
 
+  sayHi() {
+    return `Hi, my name is ${name}. I am from ${homestate}. I represent the ${politcalParty}'s, and was in office ${yearsInOffice}.`
+  }
+
 
 
 
