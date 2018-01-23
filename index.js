@@ -19,11 +19,11 @@ class President {
   }
 
   conductPressInterview() {
-    return "I am proud to be an American"
+    return "I am proud to be an American."
   }
 
   sayHi() {
-    return `Hi, my name is ${name}. I am from ${homestate}. I represent the ${politcalParty}'s, and was in office ${yearsInOffice}.`
+    return `Hi, my name is ${name}. I am from ${homeState}. I represent the ${politcalParty}'s, and was in office ${yearsInOffice}.`
   }
 
 
