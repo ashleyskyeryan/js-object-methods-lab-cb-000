@@ -27,6 +27,6 @@ class President {
   }
 
 
-
-
 }
+
+President new = "George Washington"
